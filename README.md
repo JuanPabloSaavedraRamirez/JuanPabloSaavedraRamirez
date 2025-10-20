@@ -1,60 +1,26 @@
-<h2 align="left">Hi 👋! My name is Juan Pablo SR 🐧</h2>
+### 👋 Hi there
 
-###
+I'm a software engineer in <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/world-flag_047-CHN--China.svg" width="13"/> China. Currently, I'm working for <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/Microsoft.svg" width="13"/> Microsoft, focusing on M365 infrastructures. I enjoy coding for fun😋 and making toy projects🎈.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanPabloSaavedraRamirez&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanPabloSaavedraRamirez&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<h3>🔍 Where to find me</h3>
+<p><a href="https://blog.aoaoao.me" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Blog-%23FF4088.svg?&style=for-the-badge&logo=hugo&logoColor=white" /></a> <a href="https://github.com/HFO4" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/AaronLiu00" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
 
-###
+### 🎮 Let's play Pokémon together~
+<img src="https://toy.cloudreve.org/image" width="300"/> 
 
-<img align="right" height="150" src="https://media.tenor.com/TV60yDy4ctYAAAAM/club-penguin-meme-dancing-penguin.gif"  />
+<img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/> <a href="https://toy.cloudreve.org/control?button=2&callback=https://github.com/HFO4"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/up.png" width="30"/></a>
+<br><a href="https://toy.cloudreve.org/control?button=1&callback=https://github.com/HFO4"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/left.png" width="30"/></a><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><a href="https://toy.cloudreve.org/control?button=0&callback=https://github.com/HFO4"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/right.png" width="30"/></a><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><a href="https://toy.cloudreve.org/control?button=5&callback=https://github.com/HFO4"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/B.png" width="30"/></a> <a href="https://toy.cloudreve.org/control?button=4&callback=https://github.com/HFO4"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/A.png" width="30"/></a>
+<br><a href="https://toy.cloudreve.org/control?button=3&callback=https://github.com/HFO4"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/down.png" width="30"/></a>
+<br><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><a href="https://toy.cloudreve.org/control?button=6&callback=https://github.com/HFO4"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/select.png" width="74"/></a> <a href="https://toy.cloudreve.org/control?button=7&callback=https://github.com/HFO4"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/start.png" width="65" /></a>
 
-###
+-----
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="30" alt="unrealengine logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
-</div>
+Click buttons above to issue new gamepad input, refresh this page to view newst game screen.
 
-###
+<details><summary>About this game section</summary>
+  
+  The section is developed based on my previopus GameBoy emulator project [Gameboy.Live](https://github.com/HFO4/gameboy.live), you can use this project to deploy your own "cloud gaming server".
+</details>
 
-<div align="left">
-  <a href="juanpablosr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="saavedra75@live.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/juan-pablo-saavedra-ram%C3%ADrez-77ab15288/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/JuanPabloSaavedraRamirez/JuanPabloSaavedraRamirez/output/snake.svg" alt="Snake animation" />
-
-###
+-----
