@@ -19,7 +19,7 @@
       <img height="200" alt="Avatar photo of KK10" src="YO.jpg" alt="Avatar photo of KK10">
   </div>
   <div align=center>
-      <a href="https://git.io/typing-svg"><img src="Game Developer Mexican" alt="Typing SVG" /></a>
+      <a>Game Developer Mexican</a>
   </div>
 </div>
 
