@@ -100,7 +100,7 @@
       <br>
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity" title="Unity Engine"/>
-      <img width="30px" src="https://bairesdev.mo.cloudinary.net/blog/2022/08/ue-logo-1400x788-1400x788-8f185e1e3635-1.jpg?tx=w_1920,q_auto" alt="UE" title="UE"/>
+      <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Unreal_Engine_Logo_%28new_typeface%29.svg/988px-Unreal_Engine_Logo_%28new_typeface%29.svg.png" alt="UE" title="UE"/>
       <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_Aseprite.svg/1120px-Logo_Aseprite.svg.png" alt="Asprite" title="Asprite"/>
       
     </kbd>
