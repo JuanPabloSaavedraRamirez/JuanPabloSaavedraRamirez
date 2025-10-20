@@ -102,7 +102,6 @@
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity" title="Unity Engine"/>
       <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Unreal_Engine_Logo_%28new_typeface%29.svg/988px-Unreal_Engine_Logo_%28new_typeface%29.svg.png" alt="UE" title="UE"/>
       <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_Aseprite.svg/1120px-Logo_Aseprite.svg.png" alt="Asprite" title="Asprite"/>
-      
     </kbd>
   </p>
 </div>
@@ -112,7 +111,7 @@
   <summary>GitHub Stats</summary>
   <br>
   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=10kartik&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JuanPabloSaavedraRamirez&show_icons=true" alt="GitHub Stats">
   </p>
 </details>
 
